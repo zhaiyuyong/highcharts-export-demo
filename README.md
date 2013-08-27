@@ -20,5 +20,12 @@ highcharts导出图片测试，三套方案
 2013年8月27日更新
 第二套方案源代码将于数据挖掘项目完成后提交
 
+服务器策略：
+http://www.highcharts.com/component/content/article/2-news/52-serverside-generated-charts
+highcharts API：
+http://api.highcharts.com/highcharts#yAxis.labels.style
+highcharts DEMO：
+http://www.highcharts.com/demo/waterfall/skies
+
 
 
