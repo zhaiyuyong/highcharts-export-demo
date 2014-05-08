@@ -23,6 +23,7 @@ public abstract class AbstractPool<T> implements ObjectPool<T> {
 
 	@Override
 	public void createObject() {
+		System.out.println("---------------------createObject--------------------------");
 		T object = objectFactory.create();
 		queue.add(object);
 		poolSize.getAndIncrement();
